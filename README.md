@@ -8,4 +8,5 @@ Matrix of the robotic arm.
 
 On the picture below is the movement I want to simulate in gazebo in both tasks:
 
-![image](https://github.com/user-attachments/assets/ed01b8bf-7218-4ded-a08b-42bd34280545)
+
+![image](https://github.com/user-attachments/assets/3140ff05-a31f-4ae9-89b2-eb2b94b1e736)
